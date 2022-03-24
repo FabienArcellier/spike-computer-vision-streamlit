@@ -1,13 +1,11 @@
-## blueprint-computer-vision-python
+## computer vision with streamlit
 
-[![ci](https://github.com/FabienArcellier/blueprint-computer-vision-python/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/blueprint-computer-vision-python/actions/workflows/main.yml)
+[![ci](https://github.com/FabienArcellier/spike-computer-vision-streamlit/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/spike-computer-vision-streamlit/actions/workflows/main.yml)
 
 
-blueprint to implement a simple spike with python3 for computer vision
+experimentation on computer vision
 
-* test python code
-* use jupyter notebook with python dependencies
-* ...
+![img.png](img.png)
 
 ## Getting started
 
@@ -40,6 +38,8 @@ You can find the latest version to ...
 ```bash
 git clone https://github.com/FabienArcellier/blueprint-computer-vision-python.git
 ```
+
+![img.png](img.png)
 
 ## Usage
 
