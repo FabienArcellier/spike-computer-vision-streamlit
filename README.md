@@ -15,7 +15,23 @@ blueprint to implement a simple spike with python3 for computer vision
 
 2. remove .git directory
 
-3. follow the course [Advanced Computer Vision with Python - Full Course](https://www.youtube.com/watch?v=01sAkU_NvOY)
+3. capture the webcam through the user browser
+
+```bash
+streamlit run capture.py
+```
+
+4. run simple hand recognition
+
+```bash
+streamlit run hand_detection.py
+```
+
+4. run hand recognition with flag to activate and deactive options as frame rate, hand landmark
+
+```bash
+streamlit run hand_detection_with_options.py
+```
 
 ## The latest version
 
