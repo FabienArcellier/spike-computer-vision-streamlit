@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "blueprint-computer-vision-python"
+version = "0.1.0"
+description = "blueprint to work on computer vision for python"
+authors = ["Fabien Arcellier <fabien.arcellier@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+opencv-python = "^4.5.5"
+mediapipe = "^0.8.9"
+streamlit = "^1.7.0"
+streamlit-webrtc = "^0.36.0"
+
+[tool.poetry.dev-dependencies]
+pylint = "^2.12.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[virtualenvs]
+create = true
+in-project = true
